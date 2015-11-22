@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: indual
+        psr4_prefix: indual
+        src_path: app
