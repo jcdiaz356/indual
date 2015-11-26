@@ -11,6 +11,27 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/',[
+    'uses'  => 'HomeController@index',
+    'as'    => 'home'
+]);
+Route::get('about/',[
+    'uses'  => 'HomeController@about',
+    'as'    => 'about'
+]);
+Route::get('products/',[
+    'uses'  => 'HomeController@products',
+    'as'    => 'products'
+]);
+Route::get('services/',[
+    'uses'  => 'HomeController@services',
+    'as'    => 'services'
+]);
+Route::get('infrastructure/',[
+    'uses'  => 'HomeController@infrastructure',
+    'as'    => 'infrastructure'
+]);
+Route::get('contact/',[
+    'uses'  => 'HomeController@contact',
+    'as'    => 'contact'
+]);
