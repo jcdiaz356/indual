@@ -14,7 +14,7 @@
 
             <div class="row">
                 <div class="span12">
-                    <img src="images/nosotros.jpg" alt="">
+                    <img src="images/servicios.jpg" alt="">
                 </div>
             </div>
 
@@ -22,12 +22,13 @@
                 <div class="span12">
                     <div class="row">
                         <div class="span12">
-                            <h2>Quienes somos</h2>
+                            <h2>Servicios</h2>
                         </div>
                     </div>
                     <div class="row">
                         <div class="span12">
                             <P>
+
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium amet dolorem eaque fuga inventore necessitatibus possimus repellat! Debitis nulla rem temporibus tenetur vitae! Cumque eos eum hic ipsa odio omnis.
 
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad assumenda aut cumque, dignissimos, dolore, expedita fugiat in maxime molestiae natus perspiciatis qui reiciendis repellat saepe sed suscipit totam? Dolorum, nam.

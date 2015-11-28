@@ -40,11 +40,20 @@ class homeController extends Controller
         ]);
     }
 
+    public function productDetail()
+    {
+        //
+        $menu=3;
+        return view('productDetail',[
+            'menu'			=>		$menu
+        ]);
+    }
+
     public function services()
     {
         //
         $menu=4;
-        return view('home',[
+        return view('services',[
             'menu'			=>		$menu
         ]);
     }
@@ -53,7 +62,7 @@ class homeController extends Controller
     {
         //
         $menu=5;
-        return view('home',[
+        return view('infrastructure',[
             'menu'			=>		$menu
         ]);
     }

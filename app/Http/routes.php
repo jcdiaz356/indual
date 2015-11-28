@@ -23,6 +23,10 @@ Route::get('products/',[
     'uses'  => 'HomeController@products',
     'as'    => 'products'
 ]);
+Route::get('productDetail/',[
+    'uses'  => 'HomeController@productDetail',
+    'as'    => 'productDetail'
+]);
 Route::get('services/',[
     'uses'  => 'HomeController@services',
     'as'    => 'services'

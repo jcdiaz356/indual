@@ -122,6 +122,8 @@
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 {!! Html::script('js/jquery-1.8.3.min.js')  !!}
+{!! Html::script('js/bootstrap.js')  !!}
+
 {!! Html::script('js/bootstrap-dropdown.js') !!}
 {!! Html::script('js/selectnav.min.js') !!}
 {!! Html::script('js/jquery.easing.1.3.js') !!}
@@ -151,13 +153,13 @@
         label: 'SELECIONAR...',
         autoselect: false,
         nested: true,
-        indent: '–-'
+        indent: '--'
     });
     selectnav('navigation-footer', {
         label: 'SELECIONAR...',
         autoselect: false,
         nested: true,
-        indent: '–-'
+        indent: '--'
     });
 
 

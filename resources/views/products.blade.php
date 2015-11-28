@@ -58,7 +58,7 @@
                                             <h3>PRODUCTO 1l</h3>
                                             <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                                             <p class="text-center">
-                                                <a href="product-info.html" class="btn primary btn-warning">MAS INFORMACIÓN</a>
+                                                <a href="{{ route('productDetail') }}" class="btn primary btn-warning">MAS INFORMACIÓN</a>
                                             </p>
                                         </div>
                                     </div>
@@ -70,7 +70,7 @@
                                             <h3>PRODUCTO 1l</h3>
                                             <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                                             <p class="text-center">
-                                                <a href="product-info.html" class="btn primary btn-warning">MAS INFORMACIÓN</a>
+                                                <a href="{{ route('productDetail') }}" class="btn primary btn-warning">MAS INFORMACIÓN</a>
                                             </p>
                                         </div>
                                     </div>
@@ -82,7 +82,7 @@
                                             <h3>PRODUCTO 1l</h3>
                                             <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                                             <p class="text-center">
-                                                <a href="product-info.html" class="btn primary btn-warning">MAS INFORMACIÓN</a>
+                                                <a href="{{ route('productDetail') }}" class="btn primary btn-warning">MAS INFORMACIÓN</a>
                                             </p>
                                         </div>
                                     </div>
@@ -94,7 +94,7 @@
                                             <h3>PRODUCTO 1l</h3>
                                             <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                                             <p class="text-center">
-                                                <a href="product-info.html" class="btn primary btn-warning">MAS INFORMACIÓN</a>
+                                                <a href="{{ route('productDetail') }}" class="btn primary btn-warning">MAS INFORMACIÓN</a>
                                             </p>
                                         </div>
                                     </div>

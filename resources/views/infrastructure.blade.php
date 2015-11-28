@@ -14,7 +14,7 @@
 
             <div class="row">
                 <div class="span12">
-                    <img src="images/nosotros.jpg" alt="">
+                    <img src="images/infraestructura.jpg" alt="">
                 </div>
             </div>
 
@@ -22,7 +22,7 @@
                 <div class="span12">
                     <div class="row">
                         <div class="span12">
-                            <h2>Quienes somos</h2>
+                            <h2>Infraestructura</h2>
                         </div>
                     </div>
                     <div class="row">
