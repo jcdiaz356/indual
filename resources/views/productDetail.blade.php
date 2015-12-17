@@ -68,6 +68,9 @@
                                         Se ha enviado correctamente su mensaje ...
                                     </div>
                                 </div>
+                                <div>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab beatae cumque deserunt dolorem doloribus dolorum eligendi eos explicabo, laboriosam libero molestias nostrum odio perspiciatis repellat repellendus suscipit tempora voluptatem. Dolorem.</p>
+                                </div>
                                 <form class="form-horizontal" id="contactform">
                                     <div class="control-group">
                                         <label class="control-label">Nombre                                      </label>
